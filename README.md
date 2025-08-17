@@ -34,6 +34,6 @@ Contenido del Notebook
 - El método de pago de cheque electrónico se relaciona con una mayor probabilidad de abandono.
 - El servicio de Internet de Fibra Óptica presenta una de las mayores probabilidades de deserción.
 
-### Modelos Predictivos
+### Modelos Predictivos
 
 Se compararon dos modelos: Random Forest y Regresión Logística. Ambos modelos tuvieron un rendimiento similar, con la Regresión Logística mostrando una ligera ventaja en términos de exactitud y precisión para la clase de abandono en este conjunto de datos específico.
