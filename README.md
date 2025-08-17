@@ -36,3 +36,5 @@ Conclusiones Principales del Análisis
 Modelos Predictivos
 
 Se compararon dos modelos: Random Forest y Regresión Logística. Ambos modelos tuvieron un rendimiento similar, con la Regresión Logística mostrando una ligera ventaja en términos de exactitud y precisión para la clase de abandono en este conjunto de datos específico.
+0,
+,,,,,,,,,,
